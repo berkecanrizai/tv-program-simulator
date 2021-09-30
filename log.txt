@@ -1,0 +1,57 @@
+[0:0.1] Moderator asks question 1
+[0:0.1] Commentator #2 generates answer, position in queue: 0
+[0:0.1] Commentator #0 generates answer, position in queue: 1
+[0:0.7] Commentator #3 generates answer, position in queue: 2
+[0:0.15] Commentator #2's turn to speak for 2.317000 seconds
+[0:2.332] Commentator #2 finished speaking
+[0:2.339] Commentator #0's turn to speak for 1.791000 seconds
+[0:4.131] Commentator #0 finished speaking
+[0:4.143] Commentator #3's turn to speak for 2.617000 seconds
+[0:6.761] Commentator #3 finished speaking
+[0:6.815] Moderator asks question 2
+[0:6.815] Commentator #0 generates answer, position in queue: 0
+[0:6.816] Commentator #2 generates answer, position in queue: 1
+[0:6.823] Commentator #3 generates answer, position in queue: 2
+[0:6.831] Commentator #1 generates answer, position in queue: 3
+[0:6.839] Commentator #0's turn to speak for 2.319000 seconds
+[0:9.159] Commentator #0 finished speaking
+[0:9.180] Commentator #2's turn to speak for 1.995000 seconds
+[0:10.4] Breaking news!
+[0:10.4] Commentator #2 is cut short due to a breaking news
+[0:15.5] Breaking news ends
+[0:15.12] Commentator #3's turn to speak for 1.550000 seconds
+[0:16.562] Commentator #3 finished speaking
+[0:16.583] Commentator #1's turn to speak for 2.790000 seconds
+[0:19.374] Commentator #1 finished speaking
+[0:19.374] Moderator asks question 3
+[0:19.374] Commentator #1 generates answer, position in queue: 0
+[0:19.383] Commentator #0 generates answer, position in queue: 1
+[0:19.383] Commentator #3 generates answer, position in queue: 2
+[0:19.395] Commentator #1's turn to speak for 2.845000 seconds
+[0:20.15] Breaking news!
+[0:20.15] Commentator #1 is cut short due to a breaking news
+[0:25.24] Breaking news ends
+[0:25.31] Commentator #0's turn to speak for 2.781000 seconds
+[0:27.813] Commentator #0 finished speaking
+[0:27.819] Commentator #3's turn to speak for 1.632000 seconds
+[0:29.452] Commentator #3 finished speaking
+[0:29.468] Moderator asks question 4
+[0:29.470] Commentator #3 generates answer, position in queue: 0
+[0:29.470] Commentator #0 generates answer, position in queue: 1
+[0:29.470] Commentator #2 generates answer, position in queue: 2
+[0:29.499] Commentator #3's turn to speak for 1.661000 seconds
+[0:31.160] Commentator #3 finished speaking
+[0:31.183] Commentator #0's turn to speak for 1.611000 seconds
+[0:32.795] Commentator #0 finished speaking
+[0:32.803] Commentator #2's turn to speak for 2.220000 seconds
+[0:35.24] Commentator #2 finished speaking
+[0:35.27] Moderator asks question 5
+[0:35.27] Commentator #2 generates answer, position in queue: 0
+[0:35.31] Commentator #0 generates answer, position in queue: 1
+[0:35.36] Commentator #3 generates answer, position in queue: 2
+[0:35.39] Commentator #2's turn to speak for 2.800000 seconds
+[0:37.840] Commentator #2 finished speaking
+[0:37.840] Commentator #0's turn to speak for 2.645000 seconds
+[0:40.486] Commentator #0 finished speaking
+[0:40.486] Commentator #3's turn to speak for 1.789000 seconds
+[0:42.275] Commentator #3 finished speaking
