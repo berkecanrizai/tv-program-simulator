@@ -1,3 +1,4 @@
+This was our project for the operating systems course.
 Firstly, all of the parts (1, 2, logging) are working properly.
 
 1-2) Here, we initialize gettimeofday. We then initialize the values we have taken with arguements.
